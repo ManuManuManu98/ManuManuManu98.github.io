@@ -1,0 +1,37 @@
+
+body {
+	background-color: orangered;: 
+}
+
+#principal {
+	border: solid; 50px #cccccc
+	padding: 100px;
+	margin: 0 auto;
+	width: 85%;
+	background: #82baf9;
+
+}
+
+fieldset {
+	margin-bottom: 100px;
+	border-radius: 20px;
+	border: dotted;
+}
+
+legend {
+	border: solid 1px #b5d5f8;
+	padding: 5px;
+	font-weight: bold;
+	background: #cccccc;
+	border-radius:15px ;
+	color: black;
+}
+
+#fototravis {
+	border: solid 2px;
+	margin: 10px;
+}
+
+body {
+	background: url(C:\Users\Sol Laiño\Pictures\2020-08\_DSC8383.JPG);
+}
